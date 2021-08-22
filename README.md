@@ -1,9 +1,9 @@
 **Pre-requisites for Setup Configuration**
 
-Step #1 – Install Java
-Step #2 – Install Eclipse or IntelliJ
-Step #3 – Download Chrome web driver which support your local machine chrome Browser
-Step #4- Replace exiting project chromedriver with the downloaded one
+1. Install Java
+2. Install Eclipse or IntelliJ
+3. Download Chrome web driver which support your local machine chrome Browser
+4. Replace exiting project chromedriver with the downloaded one
 
 
 **Steps**
