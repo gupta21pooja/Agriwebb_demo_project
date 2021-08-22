@@ -41,4 +41,9 @@ public class MobListPage extends BaseTestPage {
         click(By.xpath("//*[@id='mob-dialog']/div/div/button"));
     }
 
+
+    public String getMobName() {
+        return readText(By.partialLinkText("White"));
+    }
+
 }
